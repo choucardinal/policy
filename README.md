@@ -1,4 +1,4 @@
-# policy
+# Policy
 Privacy Policy
 Choucardinal built the 203 Game - Squid Game app as a Free app. This SERVICE is provided by Choucardinal at no cost and is intended for use as is.
 
